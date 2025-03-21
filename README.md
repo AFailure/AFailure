@@ -1,7 +1,5 @@
 without failure success is merely a pipedream
 
-Avid fullstack & game dev
-
 <!--
 ## Tech
 -->
