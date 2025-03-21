@@ -8,9 +8,8 @@ Avid fullstack & game dev
 
 <div id="toc"><ul><summary><h2 style="border:0">Tech</h2></summary></ul></div>
 
-| <div>Languages</br>![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Javascript](/assets/js.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)</div> | <div>Markdown</br>![HTML](/assets/html.png) ![CSS](/assets/css.png) ![React](/assets/react.png)</div> | <div>Database</br>![MongoDB](/assets/mongo.png) ![MySQL](/assets/mysql.png)</div> | <div>Machine Learning</br>![Tensorflow](/assets/tensorflow.png) ![Scikit](/assets/scikit.png)</div> | <div>Design</br>![Figma](/assets/figma.png)</div> | <div>Cloud</br> ![GCP](/assets/gcp.png) ![AWS](/assets/aws.png) ![DigitalOcean](/assets/digitalocean.png)</div> | 
+| <div>Languages</br>[![Lua](/assets/lua.png)](https://lua.org/) [![Luau](/assets/luau.png)](https://luau.org/) [![Python](/assets/python.png)](https://www.python.org/) [![Node.js](/assets/node.png)](https://nodejs.org/en) [![Matlab](/assets/matlab.png)](https://www.mathworks.com/products/matlab.html) [![Javascript](/assets/js.png)](https://www.oracle.com/developer/javascript/) [![PHP](/assets/php.png)](https://www.php.net/)</div> | <div>Markdown</br>[![HTML](/assets/html.png)](https://html.spec.whatwg.org/) [![CSS](/assets/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](/assets/react.png)](https://react.dev/)</div> | <div>Database</br>[![MongoDB](/assets/mongo.png)](https://www.mongodb.com/) [![MySQL](/assets/mysql.png)](https://www.mysql.com/)</div> | <div>Machine Learning</br>[![Tensorflow](/assets/tensorflow.png)](https://www.tensorflow.org/) [![Scikit](/assets/scikit.png)](https://scikit-learn.org/)</div> | <div>Design</br>[![Figma](/assets/figma.png)](https://figma.com/)</div> | <div>Cloud</br> [![GCP](/assets/gcp.png)](https://cloud.google.com/) [![AWS](/assets/aws.png)](https://aws.amazon.com/) [![DigitalOcean](/assets/digitalocean.png)](https://digitalocean.com/)</div> | 
 | - | - | - | - | - | - | 
-
 
 
 <!--
