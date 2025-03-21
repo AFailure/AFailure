@@ -57,7 +57,7 @@ Avid fullstack & game dev
 
 Game modification client built for Roblox. 50k+ lines of code with a custom designed user interface and auth system. Optimized for peak competitive performance.
 
-<img width="711px" height="400px" src="assets/fh/thumb.png"/>
+<a href="https://www.youtube.com/watch?v=-Xd3Nhc2ob4"><img width="711px" height="400px" src="assets/fh/thumbnail.png"/></a>
 <img width="711px" height="400px" src="assets/fh/overview.png">
 
 <img align="left" width="100px" height="100px" src="assets/ld/logo.png">
