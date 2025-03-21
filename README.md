@@ -6,7 +6,7 @@ Avid fullstack & game dev
 ## Tech
 -->
 
-<div id="toc"><ul><summary><h1 style="border:0">Tech</h1></summary></ul></div>
+<div id="toc"><ul><summary><h2 style="border:0">Tech</h2></summary></ul></div>
 
 | <div>Languages</br>![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Javascript](/assets/js.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)</div> | <div>Markdown</br>![HTML](/assets/html.png) ![CSS](/assets/css.png) ![React](/assets/react.png)</div> | <div>Database</br>![MongoDB](/assets/mongo.png) ![MySQL](/assets/mysql.png)</div> | <div>Machine Learning</br>![Tensorflow](/assets/tensorflow.png) ![Scikit](/assets/scikit.png)</div> | <div>Design</br>![Figma](/assets/figma.png)</div> | <div>Cloud</br> ![GCP](/assets/gcp.png) ![AWS](/assets/aws.png) ![DigitalOcean](/assets/digitalocean.png)</div> | 
 | - | - | - | - | - | - | 
@@ -43,7 +43,7 @@ Avid fullstack & game dev
 ## Projects
 -->
 
-<div id="toc"><ul><summary><h1 style="border:0">Projects</h1></summary></ul></div>
+<div id="toc"><ul><summary><h2 style="border:0">Projects</h2></summary></ul></div>
 
 <img align="left" width="100px" height="100px" src="assets/fh/logo.png">
 <div id="toc"> <!-- both work, toc or user-content-toc -->
