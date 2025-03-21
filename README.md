@@ -2,9 +2,13 @@ without failure success is merely a pipedream
 
 Avid fullstack & game dev
 
+<!--
 ## Tech
+-->
 
-| <div>Languages</br>![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)</div> | <div>Markdown</br>![HTML](/assets/html.png) ![CSS](/assets/css.png) ![Javascript](/assets/js.png) ![React](/assets/react.png)</div> | <div>Database</br>![MongoDB](/assets/mongo.png) ![MySQL](/assets/mysql.png)</div> | <div>Machine Learning</br>![Tensorflow](/assets/tensorflow.png) ![Scikit](/assets/scikit.png)</div> | <div>Design</br>![Figma](/assets/figma.png)</div> | <div>Cloud</br> ![GCP](/assets/gcp.png) ![AWS](/assets/aws.png) ![DigitalOcean](/assets/digitalocean.png)</div> | 
+<div id="toc"><ul><summary><h1 style="border:0">Tech</h1></summary></ul></div>
+
+| <div>Languages</br>![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Javascript](/assets/js.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)</div> | <div>Markdown</br>![HTML](/assets/html.png) ![CSS](/assets/css.png) ![React](/assets/react.png)</div> | <div>Database</br>![MongoDB](/assets/mongo.png) ![MySQL](/assets/mysql.png)</div> | <div>Machine Learning</br>![Tensorflow](/assets/tensorflow.png) ![Scikit](/assets/scikit.png)</div> | <div>Design</br>![Figma](/assets/figma.png)</div> | <div>Cloud</br> ![GCP](/assets/gcp.png) ![AWS](/assets/aws.png) ![DigitalOcean](/assets/digitalocean.png)</div> | 
 | - | - | - | - | - | - | 
 
 
@@ -12,11 +16,11 @@ Avid fullstack & game dev
 <!--
 **Languages**
 
-![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)
+![Lua](/assets/lua.png) ![Luau](/assets/luau.png) ![Python](/assets/python.png) ![Node.js](/assets/node.png) ![Javascript](/assets/js.png) ![Matlab](/assets/matlab.png) ![PHP](/assets/php.png)
 
 **Markdown** 
 
-![HTML](/assets/html.png) ![CSS](/assets/css.png) ![Javascript](/assets/js.png) ![React](/assets/react.png)
+![HTML](/assets/html.png) ![CSS](/assets/css.png) ![React](/assets/react.png)
 
 **Database**
 
@@ -35,10 +39,13 @@ Avid fullstack & game dev
 ![GCP](/assets/gcp.png) ![AWS](/assets/aws.png) ![DigitalOcean](/assets/digitalocean.png)
 -->
 
-
+<!--
 ## Projects
+-->
 
-<img align="left" width="100" height="100" src="https://cdn.discordapp.com/icons/851265964711477289/2760d011f9350431af779e657d3629d2.webp?size=2048&format=webp">
+<div id="toc"><ul><summary><h1 style="border:0">Projects</h1></summary></ul></div>
+
+<img align="left" width="100px" height="100px" src="assets/fh/logo.png">
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
     <summary>
@@ -53,7 +60,7 @@ Game modification client built for Roblox. 50k+ lines of code with a custom desi
 <img width="711px" height="400px" src="assets/fh/thumb.png"/>
 <img width="711px" height="400px" src="assets/fh/overview.png">
 
-
+<img align="left" width="100px" height="100px" src="assets/ld/logo.png">
 <div id="toc">
   <ul style="list-style: none;">
     <summary>
